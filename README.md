@@ -2,11 +2,7 @@
 
 ## Find me
 
-<p align="left">
-  <a href="https://leetcode.cn/u/adoring-banzai5aj/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-</p>
+
 <p>
   <a href="https://leetcode.cn/u/adoring-banzai5aj/">
     <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="力扣" height="32" />
