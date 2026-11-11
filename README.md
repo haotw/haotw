@@ -5,7 +5,7 @@
 
 <p>
   <a href="https://leetcode.cn/u/adoring-banzai5aj/">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="力扣" height="32" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   &nbsp;&nbsp;
   <a href="https://xhslink.cn/o/A6vC6vwXukL">
@@ -13,7 +13,7 @@
   </a>
 </p>
 
-## Visitors
+
 
 <p align="center">
   <img src="https://count.getloli.com/@haotw_profile?theme=capoo-1&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="" />
